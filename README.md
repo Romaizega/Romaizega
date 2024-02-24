@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Romaizega
-- 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning Flask
+## Hi there, i'm Roman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!---
