@@ -17,6 +17,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
+
+### 📫 How to reach me:
+
+[![pre-commit](https://img.shields.io/badge/Telegram-RBolkonskiy-26A5E4?logo=telegram&logoColor=white)](https://t.me/RBolkonskiy)
+[![pre-commit](https://img.shields.io/badge/email-r.izegov@gmail.com-005FF9?logo=maildotru&logoColor=white)](mailto:r.izegov@gmail.com)
 <!---
 Romaizega/Romaizega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
